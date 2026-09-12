@@ -2,4 +2,14 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="app_background">#F6F7FB</color>
+    <color name="text_primary">#1B1B1F</color>
+    <color name="text_secondary">#5F6368</color>
+    <color name="card_stroke">#E3E5EA</color>
+
+    <color name="mega_primary">#209869</color>
+    <color name="quina_primary">#260085</color>
+    <color name="lotofacil_primary">#930089</color>
+    <color name="lotomania_primary">#F58220</color>
 </resources>
